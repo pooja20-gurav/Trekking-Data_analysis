@@ -1,5 +1,7 @@
 # Trekking-Data_analysis
 
+![final](https://github.com/pooja20-gurav/Trekking-Data_analysis/assets/81917801/b1cd28f2-06fb-4076-b486-7495e3cca5b4)
+
 Project Name : Trekking Analysis
 - Tool Used: Power BI 
 - Data Size : 16.8 MB (1,76,84,634 bytes)
